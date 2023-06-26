@@ -1,0 +1,1 @@
+# krita-timelapse-generator-script
